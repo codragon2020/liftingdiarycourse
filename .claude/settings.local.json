@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:clerk.com)",
+      "Bash(npm install:*)",
+      "Bash(npm run lint)",
+      "mcp__neon__list_projects",
+      "mcp__neon__get_database_tables",
+      "mcp__neon__describe_table_schema",
+      "mcp__neon__run_sql_transaction",
+      "mcp__neon__list_branch_computes",
+      "mcp__neon__run_sql",
+      "mcp__neon__describe_project",
+      "mcp__neon__describe_branch",
+      "mcp__neon__get_connection_string",
+      "Bash(npm run db:seed:*)",
+      "Bash(npx tsx:*)",
+      "Bash(if exist .env echo \".env exists\")",
+      "Bash(node --version:*)",
+      "Bash(find:*)",
+      "Bash(echo:*)",
+      "Bash(ls:*)",
+      "Bash(node -e:*)",
+      "Bash(npx drizzle-kit:*)",
+      "Bash(node seed.mjs:*)"
+    ]
+  }
+}
