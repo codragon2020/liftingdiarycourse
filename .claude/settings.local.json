@@ -22,7 +22,19 @@
       "Bash(ls:*)",
       "Bash(node -e:*)",
       "Bash(npx drizzle-kit:*)",
-      "Bash(node seed.mjs:*)"
+      "Bash(node seed.mjs:*)",
+      "Bash(npx shadcn:*)",
+      "Bash(npx shadcn@latest add button:*)",
+      "Bash(dir /s /b *.tsx)",
+      "Bash(findstr:*)",
+      "Bash(dir C:Users18043Projectsclaude_codeliftingdiarycoursecomponents /s)",
+      "Bash(npx shadcn@latest --version)",
+      "Bash(npm --version:*)",
+      "Bash(npx shadcn@latest init -d)",
+      "Bash(npm exec:*)",
+      "WebFetch(domain:ui.shadcn.com)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)"
     ]
   }
 }
