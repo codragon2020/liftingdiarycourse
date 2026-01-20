@@ -34,7 +34,11 @@
       "Bash(npm exec:*)",
       "WebFetch(domain:ui.shadcn.com)",
       "Bash(npm run build:*)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(npx shadcn@latest add badge separator skeleton -y)",
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(dir C:Users18043Projectsclaude_codeliftingdiarycoursecomponentsui)",
+      "Bash(npx:*)"
     ]
   }
 }
